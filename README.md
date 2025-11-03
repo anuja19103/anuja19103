@@ -34,7 +34,7 @@ Concepts:      Data Cleaning | EDA | ML Models | DSA | Web Development | Agile
 
 ---
 
-## 🌟 Data-Focused Projects
+## 🌟 Projects
 
 ### 🤖 The Spam Sniffer – SMS Spam Classifier
 
@@ -75,7 +75,7 @@ Concepts:      Data Cleaning | EDA | ML Models | DSA | Web Development | Agile
 ## 📈 Research & Publications
 
 * 🧩 **AI in the Workplace: Friend or Foe?** – Employee Insights on the Future of Work
-  *Institute: Sanshodhan, SIESCOMS*
+  *Sanshodhan, SIESCOMS*
 
 ---
 
